@@ -19,12 +19,12 @@ The "Reset" made a clear save, if players where to swap.
 <table width="100%">
       <tr><td><b>Main menu</b></td>
       <td><b>Game Modes</b></td></tr>
-      <tr><td><img src="https://github.com/Bsktrrl/Bsktrrl.github.io/blob/main/images/TicTacToe/MainMenu.jpg" width="65%"/></td>
-      <td><img src="https://github.com/Bsktrrl/Bsktrrl.github.io/blob/main/images/TicTacToe/GameMode_Select.jpg" width="65%"/></td></tr>
+      <tr><td><img src="https://github.com/Bsktrrl/Bsktrrl.github.io/blob/main/images/TicTacToe/MainMenu.jpg" width="75%"/></td>
+      <td><img src="https://github.com/Bsktrrl/Bsktrrl.github.io/blob/main/images/TicTacToe/GameMode_Select.jpg" width="75%"/></td></tr>
  </table>
  <table width="100%">
       <tr><td><b>Score Board</b></td>
       <td><b>Settings</b></td></tr>
-      <tr><td><img src="https://github.com/Bsktrrl/Bsktrrl.github.io/blob/main/images/TicTacToe/Scoreboard.jpg" width="65%"/></td>
-      <td><img src="https://github.com/Bsktrrl/Bsktrrl.github.io/blob/main/images/TicTacToe/Settings.jpg" width="65%"/><br></td></tr>
+      <tr><td><img src="https://github.com/Bsktrrl/Bsktrrl.github.io/blob/main/images/TicTacToe/Scoreboard.jpg" width="75%"/></td>
+      <td><img src="https://github.com/Bsktrrl/Bsktrrl.github.io/blob/main/images/TicTacToe/Settings.jpg" width="75%"/><br></td></tr>
 </table>
